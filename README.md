@@ -17,7 +17,7 @@ Pada gambar `Menu Utama` tersebut terdapat 2 pilihan bagi user untuk di input, u
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/image2.png?raw=true)
 
 Pada gambar diatas user diminta untuk memasukan `username` dan `password` untuk melanjutkan kehalaman selanjutnya, jika user memasukan `username` dan `password` seperti pada gambar diatas maka user akan login sebagai `customer`.
----
+
 # MENU CUSTOMER
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.03.23.jpeg?raw=true)
 
@@ -30,6 +30,7 @@ Pada tampilan `Menu Customer` user bisa memilih jika ingin membeli saham dengan 
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.06.17.jpeg?raw=true)
 
 Jika user ingin membeli Saham, user bisa mengetik angka `1` maka user akan diarahkan ke `Menu Daftar Saham` dimana pada menu tersebut user bisa membeli beberapa pilihan saham dari berbagai perusahaan yang berbeda-beda dan juga masing-masing perusahaan memiliki harga saham yang berbeda-beda, Contohnya pada gambar diatas user membeli saham nomor `1` Dengan jumlah `1000 Lembar` maka akan muncul `✅ Saham dibeli` dan nilai tersebut akan disimpan pada akun user tersebut.
+
 ---
 # MENU DAFTAR SBN
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.08.53.jpeg?raw=true)
@@ -42,18 +43,23 @@ Jika user sudah selesai membeli Saham maka sistem otomatis mengembalikan halaman
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2003.36.48.jpeg?raw=true)
 
 Jika User ingin melihat Simulasi Kupon SBN yang user telah beli sebelumnya, User bisa memilih menu `Simulasi Kupon SBN` dengan mengetik angka `4`, Kemudian akan muncul Halaman yang menampilkan Informasi tentang SBN yang sudah dibeli oleh user.
+
 ---
+
 # MENU PORTOFOLIO
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.12.52.jpeg?raw=true)
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/image.png?raw=true)
 
 Selanjutnya jika user ingin melihat Portofolio dari Saham dan Surat Berharga Negara yang telah user beli, User bisa memilih menu `Lihat Portofolio` dengan cara mengetik angka `5`, kemudian akan tampil Halaman yang berisi data Portofolio atau Saham dan SBN yang user telah beli sebelumnya, disana juga terdapat total yang sudah user beli dan juga total dari Nilai Saham dan SBN yang telah user beli sebelumnya.
+
 ---
+
 # MENU JUAL SAHAM
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.14.32.jpeg?raw=true)
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.15.22.jpeg?raw=true)
 
 Jika user ingin menjual saham, user bisa memilih menu `Jual Saham` dengan mengetik angka `2`, kemudian akan muncul halaman yang menampilkan Saham yang dimiliki oleh user, User bisa memilih saham nomor berapa yang akan dijual dan juga Jumlah saham yang ingin dijual oleh user, Ketika user berhasil menjual sahamnya maka akan muncul `✅ Saham Dijual`.
+
 ---
 # MENU LOGOUT
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.16.13.jpeg?raw=true)
