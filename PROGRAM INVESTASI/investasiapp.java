@@ -1,6 +1,6 @@
 import java.util.*;
 
-mport java.util.*;
+import java.util.*;
 
 
 public class investasiapp {
