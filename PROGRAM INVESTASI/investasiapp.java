@@ -50,7 +50,7 @@ public class investasiapp {
         if (user != null && user.checkPassword(password)) {
             user.menu(sahamList, sbnList);
         } else {
-            System.out.println("Login gagal!");
+            System.out.println("Login gagal! Silahkan Coba Lagi");
         }
     }
 }
