@@ -81,3 +81,7 @@ Jika User ingin login sebagai `ADMIN` maka user diminta untuk memasukan Username
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.05.40.jpeg?raw=true)
 ### Sesudah perubahan Harga
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.24.30.jpeg?raw=true)
+
+---
+# Diagram UML
+![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/UML%20PROGRAM%20INVESTASI%20TUGAS%20PBO-MacBook%20Air%20yuni.png?raw=true)
