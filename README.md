@@ -76,7 +76,6 @@ Jika user ingin logout maka user bisa memilih menu logout dengan mengetik angka 
 
 Jika User ingin login sebagai `ADMIN` maka user diminta untuk memasukan Username dengan nama `admin` dan Passwordnya `admin123` seperti gambar diatas, Didalam `Menu Admin` user bisa Menambah saham, mengubah harga saham, dan juga Menambah SBN. Contohnya jika user mau mengubah harga saham, user bisa memilih menu kedua yaitu dengan mengetik angka `2` dan memasukan kode Saham yang harganya ingin diubah oleh user kemudian user diminta memasukan Harga Baru untuk Saham tersebut, Jika berhasil maka akan muncul `✅ Harga diubah`.
 
----
 ### Sebelum perubahan Harga
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.05.40.jpeg?raw=true)
 ### Sesudah perubahan Harga
