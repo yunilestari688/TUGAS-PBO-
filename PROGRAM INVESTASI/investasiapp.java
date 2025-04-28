@@ -1,7 +1,5 @@
 import java.util.*;
 
-import java.util.*;
-
 
 public class investasiapp {
     static Scanner scanner = new Scanner(System.in);
