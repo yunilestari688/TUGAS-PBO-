@@ -36,6 +36,7 @@ Jika user ingin membeli Saham, user bisa mengetik angka `1` maka user akan diara
 # MENU DAFTAR SBN
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.08.53.jpeg?raw=true)
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.11.05.jpeg?raw=true)
+
 Jika user sudah selesai membeli Saham maka sistem otomatis mengembalikan halaman kembali ke `Menu Customer`, selanjutnya jika user ingin membeli SBN (Surat Berharga Negara) User bisa memilih dengan cara mengetik angka `3` maka `Menu Daftar SBN` akan tampil, Pada menu tersebut user bisa memilih berbagai macam Daftar Surat Berharga Negara, Contoh jika user memilih Surat Berharga Negara `ORIO21` maka user bisa mengetik angka `1` dan memasukan Nominal yang ingin dibeli oleh user, Pada contoh diatas user ingin membeli dengan nilai `1.000.000` maka akan muncul `✅ SBN dibeli` dan Surat Berharga Negara yang telah user beli akan tersimpan pada akun user tersebut.
 
 ---
@@ -66,6 +67,7 @@ Jika user ingin menjual saham, user bisa memilih menu `Jual Saham` dengan menget
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.16.13.jpeg?raw=true)
 
 Jika user ingin logout maka user bisa memilih menu logout dengan mengetik angka `6`, maka akun user sebagai `Customer` akan terlogout dari aplikasi.
+
 ---
 # MENU LOGIN SEBAGAI ADMIN
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.16.45.jpeg?raw=true)
