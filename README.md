@@ -12,6 +12,7 @@ Disini kami akan menjelaskan output dari program yang telah kami buat ketika sud
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-28%20at%2023.37.51.jpeg?raw=true)
 
 Pada gambar `Menu Utama` tersebut terdapat 2 pilihan bagi user untuk di input, user bisa mengetik `1` jika ingin login dan `0` jika ingin keluar dari program.
+
 ---
 # LOGIN PAGE
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/image2.png?raw=true)
