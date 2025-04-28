@@ -1,6 +1,6 @@
 # PEMBUATAN PROGRAM INVESTASI APP SEDERHANA BERBASIS _Command Line_
 
-Pemrograman Berorientasi Objek
+Pemrograman Berorientasi Objek B
 
 ### NAMA KELOMPOK:
 - I Gusti Agung Dananjaya Putra (2405551095)
