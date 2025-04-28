@@ -19,6 +19,7 @@ Pada gambar `Menu Utama` tersebut terdapat 2 pilihan bagi user untuk di input, u
 
 Pada gambar diatas user diminta untuk memasukan `username` dan `password` untuk melanjutkan kehalaman selanjutnya, jika user memasukan `username` dan `password` seperti pada gambar diatas maka user akan login sebagai `customer`.
 
+---
 # MENU CUSTOMER
 ![alt text](https://github.com/yunilestari688/TUGAS-PBO-/blob/main/Screenshot/WhatsApp%20Image%202025-04-29%20at%2000.03.23.jpeg?raw=true)
 
